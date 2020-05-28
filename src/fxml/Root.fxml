@@ -5,7 +5,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.control.Button?>
 
-<HBox xmlns:fx="http://javafx.com/fxml/1">	<!-- HBox 컨테이너 선언 -->
+<HBox xmlns:fx="http://javafx.com/fxml">	<!-- HBox 컨테이너 선언 -->
 	<padding>	<!-- 안쪽 여백 설정 -->
 		<Insets topRightBottomLeft="10.0" />	<!-- < /> 이렇게 하면 열고닫기됨 -->
 		<!-- <Insets top="10.0" right="10.0" bottom="10.0" left="10.0" /> -->	<!-- 따로 설정하고싶으면 이렇게도 가능 -->
